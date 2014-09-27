@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">KeyHashFinder</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="yourHash">Your KeyHash:</string>
+    <string name="errorMessage">Could not find your KeyHash:</string>
+
+</resources>
